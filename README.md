@@ -1,5 +1,5 @@
 
-# Personal Health Charges Analysis Using Linear Regression
+# Personal Health Charges Analysis Using Multiple Linear Regression
 
 ## Overview
 
