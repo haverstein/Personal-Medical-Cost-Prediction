@@ -47,7 +47,7 @@ Key metrics used to evaluate the model:
 - **BMI * Smoker**: The impact of BMI on charges increases for smokers, implying a synergistic effect between smoking and BMI.
 
 ### Model Performance:
-- **R-squared**: 0.820, indicating that 82% of the variance in charges is explained by the model.
+- **R-squared**: 0.820, indicating that 82% of the variance in charges is explained by the model (after using cross validation)
 - **Adjusted R-squared**: 0.819, suggesting strong model fit.
   
 ### Diagnostics:
